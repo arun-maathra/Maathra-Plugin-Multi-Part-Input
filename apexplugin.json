@@ -1,0 +1,48 @@
+{
+  "name": "MAATHRA - Varying Multi-Part Input",
+  "version": "250102",
+  "description": "This APEX plugin creates a segmented input field, breaking down a single item into multiple smaller input boxes. It's useful for structured data like credit card numbers or phone numbers, guiding users and improving data entry. You can configure the number of segments and the length of each, with options for fixed or variable segment lengths.",
+  "keywords": [
+    "input",
+    "multi-part",
+    "otp"
+  ],
+  "homepage": "https://github.com/arun-maathra/apex-apps/tree/c2493e248b9d294bdb21564044f64979b5af7761/Plugins/Multi-Part-Input",
+  "bugs": {
+    "url": "",
+    "email": ""
+  },
+  "license": "MIT",
+  "commercial": "No",
+  "author": {
+    "name": "Arun Mohan",
+    "email": "arun@maathra.com",
+    "url":"https://www.linkedin.com/in/vigneshwarangopalan/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.linkedin.com/in/arunkakkattil/"
+  },
+  "oracle": {
+    "versions": [
+      "18c",
+      "19c",
+      "21c",
+      "23c",
+      "23ai"
+    ],
+    "apex": {
+      "versions": [
+        "23.2",
+        "24.1",
+        "24.2"
+      ],
+      "plugin": {
+        "internalName": "MAATHRA_VSEGMENTED_INPUT",
+        "type": "input",
+        "demo": "",
+        "previewImage": "https://github.com/arun-maathra/apex-apps/blob/4cead763dafd181b77fc3e0f0456e6cc166c468c/Plugins/Multi-Part-Input/multi-part-demo.gif"
+      }
+    }
+  }
+}
