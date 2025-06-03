@@ -40,7 +40,7 @@
       "plugin": {
         "internalName": "MAATHRA_VSEGMENTED_INPUT",
         "type": "input",
-        "demo": "",
+        "demo": "https://g6409cd08b94911-mtcapexdev01.adb.ap-mumbai-1.oraclecloudapps.com/ords/r/mtdemo/demo/multi-part-input",
         "previewImage": "https://github.com/arun-maathra/apex-apps/blob/4cead763dafd181b77fc3e0f0456e6cc166c468c/Plugins/Multi-Part-Input/multi-part-demo.gif"
       }
     }
