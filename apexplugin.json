@@ -7,7 +7,7 @@
     "multi-part",
     "otp"
   ],
-  "homepage": "https://github.com/arun-maathra/apex-apps/tree/c2493e248b9d294bdb21564044f64979b5af7761/Plugins/Multi-Part-Input",
+  "homepage": "https://github.com/arun-maathra/Maathra-Plugin-Multi-Part-Input",
   "bugs": {
     "url": "",
     "email": ""
@@ -17,11 +17,11 @@
   "author": {
     "name": "Arun Mohan",
     "email": "arun@maathra.com",
-    "url":"https://www.linkedin.com/in/vigneshwarangopalan/"
+    "url":"https://www.linkedin.com/in/arunkakkattil/"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/arun-maathra/Maathra-Plugin-Multi-Part-Input.git"
+    "url": "https://github.com/arun-maathra/Maathra-Plugin-Multi-Part-Input"
   },
   "oracle": {
     "versions": [
@@ -38,7 +38,7 @@
         "24.2"
       ],
       "plugin": {
-        "internalName": "MAATHRA_VSEGMENTED_INPUT",
+        "internalName": "MAATHRA_VRSEGMENTED_INPUT",
         "type": "input",
         "demo": "https://g6409cd08b94911-mtcapexdev01.adb.ap-mumbai-1.oraclecloudapps.com/ords/r/mtdemo/demo/multi-part-input",
         "previewImage": "https://github.com/arun-maathra/apex-apps/blob/4cead763dafd181b77fc3e0f0456e6cc166c468c/Plugins/Multi-Part-Input/multi-part-demo.gif"
