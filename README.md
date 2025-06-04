@@ -32,5 +32,3 @@ Part Length(s) : 5,7
 Variable Character/Part Length? : Yes
 This will render two input fields, the first allowing 5 characters and the second allowing 7.
 
-Additional Information
-Type: Number
